@@ -7,11 +7,13 @@
 - Passo 5: Repetir o passo 4 até cadastrar todos os produtos
  <br>
 Para automação do sistema:
+
 ```bash
 pip install pyautogui
 ```
  <br>
  Para importar a base de dados:
+ 
 ```bash
 pip install pandas openpyxl numpy
 ```
