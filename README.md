@@ -5,11 +5,13 @@
 - Passo 3: Pegar/Importar a base de dados
 - Passo 4: Cadastrar um produto
 - Passo 5: Repetir o passo 4 até cadastrar todos os produtos
-
+ <br>
+Para automação do sistema:
 ```bash
 pip install pyautogui
 ```
-
+ <br>
+ Para importar a base de dados:
 ```bash
 pip install pandas openpyxl numpy
 ```
